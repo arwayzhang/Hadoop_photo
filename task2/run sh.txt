@@ -1,0 +1,6 @@
+Job 1
+sh driver.sh /user/szha5691/Final-1-2x/part-0000* Final-2x
+
+
+
+

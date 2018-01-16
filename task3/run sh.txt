@@ -1,0 +1,7 @@
+Job 1
+sh reduceside_join_driver.sh /share/place.txt /share/photo/n0*.txt Final-3-1x
+Job 2
+sh driver.sh /user/szha5691/Final-3-1x/part-0000* Final-3-2x
+Job 3
+sh driver2.sh /user/szha5691/Final-3-2x/part-0000* Final-3-3x
+
